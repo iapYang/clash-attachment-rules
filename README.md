@@ -21,6 +21,24 @@ rule-providers:
     path: ./ruleset/iapyang-direct.yaml
     interval: 86400
 ```
+或者镜像访问
+
+```yaml
+rule-providers:
+  iapyang-proxy:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/iapYang/clash-attachment-rules@main/rules/proxy.txt"
+    path: ./ruleset/iapyang-proxy.yaml
+    interval: 86400
+
+  iapyang-direct:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/iapYang/clash-attachment-rules@main/rules/direct.txt"
+    path: ./ruleset/iapyang-direct.yaml
+    interval: 86400
+```
 
 #### Rules配置方式
 ```yaml
