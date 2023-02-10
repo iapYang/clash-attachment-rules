@@ -1,2 +1,2 @@
 payload:
-  - '+.github.com'
+  - '+.zerotier.com'
