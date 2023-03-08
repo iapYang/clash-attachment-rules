@@ -1,3 +1,4 @@
 payload:
   - '+.zerotier.com'
   - 'stackoverflow.com'
+  - '+.hevodata.com'
