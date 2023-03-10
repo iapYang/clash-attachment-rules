@@ -3,3 +3,4 @@ payload:
   - 'stackoverflow.com'
   - '+.hevodata.com'
   - 'registry.npmmirror.com'
+  - '+.spotify.com'
