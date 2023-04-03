@@ -4,3 +4,4 @@ payload:
   - '+.hevodata.com'
   - '+.spotify.com'
   - 'www.figma.com'
+  - '+.npmjs.com'
