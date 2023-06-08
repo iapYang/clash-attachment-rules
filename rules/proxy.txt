@@ -5,3 +5,4 @@ payload:
   - '+.spotify.com'
   - 'www.figma.com'
   - '+.npmjs.com'
+  - '+sourceforge.net`'
