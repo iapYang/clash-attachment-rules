@@ -7,3 +7,4 @@ payload:
   - '+.npmjs.com'
   - '+sourceforge.net'
   - '+.appcenter.ms'
+  - '+.netlify.app'
