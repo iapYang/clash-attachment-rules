@@ -8,3 +8,4 @@ payload:
   - '+sourceforge.net'
   - '+.appcenter.ms'
   - '+.netlify.app'
+  - '+.affcpatrk.com'
