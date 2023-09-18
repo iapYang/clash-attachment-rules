@@ -9,3 +9,4 @@ payload:
   - '+.appcenter.ms'
   - '+.netlify.app'
   - '+.affcpatrk.com'
+  - '+.hassbian.com'
