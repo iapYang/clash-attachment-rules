@@ -1,3 +1,4 @@
 payload:
   - '+.baidu'
   - 'registry.npmmirror.com'
+  - 'shimo.im'
