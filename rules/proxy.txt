@@ -3,7 +3,6 @@ payload:
   - 'stackoverflow.com'
   - '+.hevodata.com'
   - '+.spotify.com'
-  - 'www.figma.com'
   - '+.npmjs.com'
   - '+sourceforge.net'
   - '+.appcenter.ms'
