@@ -8,3 +8,4 @@ payload:
   - '+.appcenter.ms'
   - '+.netlify.app'
   - '+.affcpatrk.com'
+  - '+.unpkg.com'
