@@ -9,3 +9,4 @@ payload:
   - '+.netlify.app'
   - '+.affcpatrk.com'
   - '+.unpkg.com'
+  - '+.meijumi.net'
