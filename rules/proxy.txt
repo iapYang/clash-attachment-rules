@@ -10,3 +10,4 @@ payload:
   - '+.affcpatrk.com'
   - '+.unpkg.com'
   - '+.meijumi.net'
+  - 'limbopro.com'
