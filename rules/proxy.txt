@@ -12,3 +12,4 @@ payload:
   - '+.meijumi.net'
   - 'limbopro.com'
   - '+.shadowrocket.vip'
+  - 'v2rayssr.com'
