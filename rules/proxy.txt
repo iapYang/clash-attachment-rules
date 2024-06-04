@@ -11,3 +11,4 @@ payload:
   - '+.unpkg.com'
   - '+.meijumi.net'
   - 'limbopro.com'
+  - '+.shadowrocket.vip'
