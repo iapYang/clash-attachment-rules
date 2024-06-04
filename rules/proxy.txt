@@ -13,3 +13,4 @@ payload:
   - 'limbopro.com'
   - '+.shadowrocket.vip'
   - 'v2rayssr.com'
+  - 'clashxray.com'
