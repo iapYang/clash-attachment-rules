@@ -14,3 +14,4 @@ payload:
   - '+.shadowrocket.vip'
   - 'v2rayssr.com'
   - 'clashxray.com'
+  - 'mlapp.cn'
