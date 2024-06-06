@@ -17,3 +17,4 @@ payload:
   - 'mlapp.cn'、
   - 'arc.net'
   - '+.arc.net'
+  - '+.jumpdesktop.com'
