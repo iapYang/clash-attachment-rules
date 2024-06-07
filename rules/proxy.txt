@@ -18,4 +18,3 @@ payload:
   - 'arc.net'
   - '+.arc.net'
   - '+.jumpdesktop.com'
-  - 'production.cloudflare.docker.com'
