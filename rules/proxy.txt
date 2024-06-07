@@ -14,7 +14,7 @@ payload:
   - '+.shadowrocket.vip'
   - 'v2rayssr.com'
   - 'clashxray.com'
-  - 'mlapp.cn'、
+  - 'mlapp.cn'
   - 'arc.net'
   - '+.arc.net'
   - '+.jumpdesktop.com'
