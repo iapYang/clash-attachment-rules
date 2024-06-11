@@ -19,3 +19,4 @@ payload:
   - '+.arc.net'
   - '+.jumpdesktop.com'
   - 'index.docker.io'
+  - 'downloads.immortalwrt.org'
