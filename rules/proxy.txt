@@ -20,3 +20,4 @@ payload:
   - '+.jumpdesktop.com'
   - 'index.docker.io'
   - 'downloads.immortalwrt.org'
+  - 'blur-on.com'
