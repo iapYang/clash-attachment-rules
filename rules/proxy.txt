@@ -21,3 +21,4 @@ payload:
   - 'index.docker.io'
   - 'downloads.immortalwrt.org'
   - 'blur-on.com'
+  - 'vercel.com'
