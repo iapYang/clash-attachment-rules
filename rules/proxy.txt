@@ -24,3 +24,4 @@ payload:
   - 'vercel.com'
   - '+.docker.com'
   - 'bbs.hassbian.com'
+  - 'v2fy.com'
