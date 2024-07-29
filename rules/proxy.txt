@@ -29,3 +29,4 @@ payload:
   - '+.metacubex.one'
   - 'moonvrplayer.com'
   - '+.moonvrplayer.com'
+  - '+.meta.com'
