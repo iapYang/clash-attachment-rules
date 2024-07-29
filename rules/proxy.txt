@@ -25,3 +25,4 @@ payload:
   - '+.docker.com'
   - 'bbs.hassbian.com'
   - 'v2fy.com'
+  - 'machbbs.com'
