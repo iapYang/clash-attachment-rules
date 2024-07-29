@@ -27,3 +27,5 @@ payload:
   - 'v2fy.com'
   - 'machbbs.com'
   - '+.metacubex.one'
+  - 'moonvrplayer.com'
+  - '+.moonvrplayer.com'
