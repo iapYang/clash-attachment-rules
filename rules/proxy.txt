@@ -26,4 +26,4 @@ payload:
   - 'bbs.hassbian.com'
   - 'v2fy.com'
   - 'machbbs.com'
-  - 'metacubex.one'
+  - '+.metacubex.one'
