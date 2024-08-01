@@ -31,3 +31,4 @@ payload:
   - '+.moonvrplayer.com'
   - '+.meta.com'
   - 'api.palworldgame.com'
+  - '+.dyzj18.com'
