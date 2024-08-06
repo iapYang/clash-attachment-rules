@@ -32,3 +32,4 @@ payload:
   - '+.meta.com'
   - 'api.palworldgame.com'
   - '+.dyzj18.com'
+  - '+.nodeseek.com'
