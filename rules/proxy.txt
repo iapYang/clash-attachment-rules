@@ -23,7 +23,6 @@ payload:
   - 'blur-on.com'
   - 'vercel.com'
   - '+.docker.com'
-  - 'bbs.hassbian.com'
   - 'v2fy.com'
   - 'machbbs.com'
   - '+.metacubex.one'
