@@ -32,3 +32,4 @@ payload:
   - 'api.palworldgame.com'
   - '+.dyzj18.com'
   - '+.nodeseek.com'
+  - 'file0.assrt.net'
