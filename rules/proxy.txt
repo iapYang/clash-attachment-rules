@@ -28,6 +28,7 @@ payload:
   - '+.metacubex.one'
   - 'moonvrplayer.com'
   - '+.moonvrplayer.com'
+  - '+.4ksg.com'
   - '+.meta.com'
   - 'api.palworldgame.com'
   - '+.dyzj18.com'
