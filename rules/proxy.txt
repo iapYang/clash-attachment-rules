@@ -38,3 +38,4 @@ payload:
   - '+.bd2121.com'
   - 'zhubangjiao.com'
   - '+.pdsrf.com'
+  - '+.lwgod.org'
