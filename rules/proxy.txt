@@ -36,3 +36,4 @@ payload:
   - 'file0.assrt.net'
   - '+.mnxiezhen.com'
   - '+.bd2121.com'
+  - 'zhubangjiao.com'
