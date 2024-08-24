@@ -39,3 +39,4 @@ payload:
   - 'zhubangjiao.com'
   - '+.pdsrf.com'
   - '+.lwgod.org'
+  - '+.321n.net'
