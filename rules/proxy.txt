@@ -35,3 +35,4 @@ payload:
   - '+.nodeseek.com'
   - 'file0.assrt.net'
   - '+.mnxiezhen.com'
+  - '+.bd2121.com'
