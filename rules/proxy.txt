@@ -40,3 +40,4 @@ payload:
   - '+.pdsrf.com'
   - '+.lwgod.org'
   - '+.321n.net'
+  - '+.flywhaler.com'
