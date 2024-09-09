@@ -44,3 +44,4 @@ payload:
   - '+.a4k.net'
   - '+.imdb.com'
   - '+.miuwa.com'
+  - '+.vfsglobal.com'
