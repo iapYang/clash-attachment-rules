@@ -45,3 +45,4 @@ payload:
   - '+.imdb.com'
   - '+.miuwa.com'
   - '+.vfsglobal.com'
+  - '+.becmd.com'
