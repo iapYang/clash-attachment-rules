@@ -46,3 +46,4 @@ payload:
   - '+.miuwa.com'
   - '+.vfsglobal.com'
   - '+.becmd.com'
+  - '+.genymotion.com'
