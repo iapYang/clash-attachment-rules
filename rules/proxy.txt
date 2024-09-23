@@ -47,3 +47,5 @@ payload:
   - '+.vfsglobal.com'
   - '+.becmd.com'
   - '+.genymotion.com'
+  - '+.vpnunlimited.com'
+  - '+.fxnetw.com'
