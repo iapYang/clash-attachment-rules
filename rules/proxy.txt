@@ -49,3 +49,4 @@ payload:
   - '+.genymotion.com'
   - '+.vpnunlimited.com'
   - '+.fxnetw.com'
+  - '+.uedtu.com'
