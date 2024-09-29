@@ -50,3 +50,5 @@ payload:
   - '+.vpnunlimited.com'
   - '+.fxnetw.com'
   - '+.uedtu.com'
+  - '7xz8.com'
+  - 'kpkuang.bond'
