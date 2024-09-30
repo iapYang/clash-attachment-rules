@@ -52,3 +52,4 @@ payload:
   - '+.uedtu.com'
   - '7xz8.com'
   - 'kpkuang.bond'
+  + 'dqpnq362acqdi.cloudfront.net'
