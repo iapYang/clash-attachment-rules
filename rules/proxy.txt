@@ -53,3 +53,5 @@ payload:
   - '7xz8.com'
   - 'kpkuang.bond'
   - '+.cloudfront.net'
+  - '+.yarnpkg.com'
+  - '+.debian.org'
