@@ -55,3 +55,4 @@ payload:
   - '+.cloudfront.net'
   - '+.yarnpkg.com'
   - '+.debian.org'
+  - '+.pythonhosted.org'
