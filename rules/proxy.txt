@@ -56,3 +56,4 @@ payload:
   - '+.yarnpkg.com'
   - '+.debian.org'
   - '+.pythonhosted.org'
+  - '+.contaboserver.net'
