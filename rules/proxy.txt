@@ -57,3 +57,4 @@ payload:
   - '+.debian.org'
   - '+.pythonhosted.org'
   - '+.contaboserver.net'
+  - 'fitness.apple.com'
