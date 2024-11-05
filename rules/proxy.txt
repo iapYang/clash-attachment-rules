@@ -4,6 +4,7 @@ payload:
   - '+.hevodata.com'
   - '+.spotify.com'
   - '+.npmjs.com'
+  - '+.npmjs.org'
   - '+sourceforge.net'
   - '+.appcenter.ms'
   - '+.netlify.app'
