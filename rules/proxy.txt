@@ -60,3 +60,4 @@ payload:
   - '+.contaboserver.net'
   - 'fitness.apple.com'
   - '+.talkatone.com'
+  - 'dewx.top'
