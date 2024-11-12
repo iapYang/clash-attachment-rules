@@ -59,3 +59,4 @@ payload:
   - '+.pythonhosted.org'
   - '+.contaboserver.net'
   - 'fitness.apple.com'
+  - '+.talkatone.com'
