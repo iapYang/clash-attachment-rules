@@ -64,3 +64,4 @@ payload:
   - '+.notion.so'
   - '+.notionusercontent.com'
   - '+.http-inputs-notion.splunkcloud.com'
+  - '+.oaiusercontent.com'
