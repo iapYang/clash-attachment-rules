@@ -61,3 +61,6 @@ payload:
   - 'fitness.apple.com'
   - '+.talkatone.com'
   - 'dewx.top'
+  - '+.notion.so'
+  - '+.notionusercontent.com'
+  - '+.http-inputs-notion.splunkcloud.com'
