@@ -65,3 +65,5 @@ payload:
   - '+.notionusercontent.com'
   - '+.http-inputs-notion.splunkcloud.com'
   - '+.oaiusercontent.com'
+  - '+.investing.com'
+  - '+.investingapp.net'
