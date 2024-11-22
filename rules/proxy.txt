@@ -67,3 +67,4 @@ payload:
   - '+.oaiusercontent.com'
   - '+.investing.com'
   - '+.investingapp.net'
+  - '+.iloveimg.com'
