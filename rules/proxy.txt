@@ -68,3 +68,4 @@ payload:
   - '+.investing.com'
   - '+.investingapp.net'
   - '+.iloveimg.com'
+  - '+.youtube4kdownloader.com'
