@@ -3,3 +3,5 @@ payload:
   - '*.oaistatic.com'
   - '*.chatgpt.com'
   - 'chatgpt.com'
+  - 'sora.com'
+  - '+.sora.com'
