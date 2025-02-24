@@ -69,4 +69,4 @@ payload:
   - '+.investingapp.net'
   - '+.iloveimg.com'
   - '+.youtube4kdownloader.com'
-  - 'cdn.sstatic.net'
+  - '+.sstatic.net'
