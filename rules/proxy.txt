@@ -71,3 +71,4 @@ payload:
   - '+.youtube4kdownloader.com'
   - '+.sstatic.net'
   - '+.cloudflare.com'
+  
