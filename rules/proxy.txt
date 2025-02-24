@@ -70,5 +70,3 @@ payload:
   - '+.iloveimg.com'
   - '+.youtube4kdownloader.com'
   - '+.sstatic.net'
-  - '+.cloudflare.com'
-  
