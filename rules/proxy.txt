@@ -73,5 +73,6 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflareinsights.com'
   - '+.googletagmanager.com'
-  - 'lingering-shadow-039a.yklorse.workers.dev'
+  - '+.nytimes.com'
+  - 'nytimes.com'
   
