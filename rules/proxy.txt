@@ -75,4 +75,6 @@ payload:
   - '+.googletagmanager.com'
   - '+.nytimes.com'
   - 'nytimes.com'
+  - '+.googleadservices.com'
+  - 'googleadservices.com'
   
