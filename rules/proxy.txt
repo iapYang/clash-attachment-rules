@@ -75,4 +75,5 @@ payload:
   - '+.googletagmanager.com'
   - '+.nytimes.com'
   - 'nytimes.com'
+  - '+.figma.com'
   
