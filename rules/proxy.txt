@@ -70,6 +70,8 @@ payload:
   - '+.iloveimg.com'
   - '+.youtube4kdownloader.com'
   - '+.sstatic.net'
+  - '+.cloudflare.com'
+  - '+.cloudflareinsights.com'
   - '+.googletagmanager.com'
   - '+.nytimes.com'
   - 'nytimes.com'
