@@ -77,4 +77,6 @@ payload:
   - '+.nytimes.com'
   - 'nytimes.com'
   - '+.figma.com'
+  - 'dockerstatic.com'
+  - '+.dockerstatic.com'
   
