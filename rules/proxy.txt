@@ -79,4 +79,6 @@ payload:
   - '+.figma.com'
   - 'dockerstatic.com'
   - '+.dockerstatic.com'
+  - 'pypi.org'
+  - '+.pypi.org'
   
