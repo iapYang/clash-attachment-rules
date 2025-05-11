@@ -81,4 +81,6 @@ payload:
   - '+.dockerstatic.com'
   - 'pypi.org'
   - '+.pypi.org'
+  - 'booking.com'
+  - '+.booking.com'
   
