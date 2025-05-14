@@ -83,4 +83,4 @@ payload:
   - '+.pypi.org'
   - 'booking.com'
   - '+.booking.com'
-  
+  - '+.proxmox.com'
