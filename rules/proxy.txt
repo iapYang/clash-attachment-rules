@@ -84,3 +84,5 @@ payload:
   - 'booking.com'
   - '+.booking.com'
   - '+.proxmox.com'
+  - 'flowiseai.com'
+  - '+.flowiseai.com'
