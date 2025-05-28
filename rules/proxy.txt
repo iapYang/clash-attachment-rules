@@ -86,3 +86,4 @@ payload:
   - '+.proxmox.com'
   - 'flowiseai.com'
   - '+.flowiseai.com'
+  - '+.wangdu.site'
