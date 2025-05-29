@@ -88,3 +88,4 @@ payload:
   - '+.flowiseai.com'
   - '+.wangdu.site'
   - '+.temu.com'
+  - '+.dlkoo.cc'
