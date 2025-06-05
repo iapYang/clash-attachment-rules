@@ -89,3 +89,5 @@ payload:
   - '+.wangdu.site'
   - '+.temu.com'
   - '+.dlkoo.cc'
+  - '+.manus.im'
+  - 'manus.im'
