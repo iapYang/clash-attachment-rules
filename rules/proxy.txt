@@ -91,3 +91,4 @@ payload:
   - '+.dlkoo.cc'
   - '+.manus.im'
   - 'manus.im'
+  - '+.manuscdn.com'
