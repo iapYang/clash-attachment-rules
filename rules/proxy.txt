@@ -92,3 +92,5 @@ payload:
   - '+.manus.im'
   - 'manus.im'
   - '+.manuscdn.com'
+  - '+.rclone.org'
+  - 'rclone.org'
