@@ -94,3 +94,4 @@ payload:
   - '+.manuscdn.com'
   - '+.rclone.org'
   - 'rclone.org'
+  - '+.langchain.com'
