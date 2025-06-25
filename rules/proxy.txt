@@ -96,4 +96,6 @@ payload:
   - 'rclone.org'
   - '+.langchain.com'
   - '+.lkwplus.com'
+  - 'heroku.com'
+  - '+.heroku.com'
   
