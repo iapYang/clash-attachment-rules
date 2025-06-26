@@ -98,4 +98,6 @@ payload:
   - '+.lkwplus.com'
   - 'heroku.com'
   - '+.heroku.com'
+  - '+.arxiv.org'
+  - 'arxiv.org'
   
