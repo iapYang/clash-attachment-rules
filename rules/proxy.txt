@@ -100,4 +100,6 @@ payload:
   - '+.heroku.com'
   - '+.arxiv.org'
   - 'arxiv.org'
+  - 'fxcp.info'
+  - '+.fxcp.info'
   
