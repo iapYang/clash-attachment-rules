@@ -102,4 +102,6 @@ payload:
   - 'arxiv.org'
   - 'fxcp.info'
   - '+.fxcp.info'
+  - 'mermaid.js.org'
+  - '+.mermaid.js.org'
   
