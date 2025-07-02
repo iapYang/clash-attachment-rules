@@ -104,4 +104,5 @@ payload:
   - '+.fxcp.info'
   - 'mermaid.js.org'
   - '+.mermaid.js.org'
-  
+  - 'clashmeta.org'
+  - '+.clashmeta.org'
