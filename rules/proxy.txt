@@ -106,3 +106,4 @@ payload:
   - '+.mermaid.js.org'
   - 'clashmeta.org'
   - '+.clashmeta.org'
+  - '+.pinkoi.com'
