@@ -109,3 +109,5 @@ payload:
   - '+.pinkoi.com'
   - 'xcancel.com'
   - '+.xcancel.com'
+  - 'allvoicelab.com'
+  - '+.allvoicelab.com'
