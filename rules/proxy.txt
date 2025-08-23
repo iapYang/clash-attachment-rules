@@ -111,3 +111,5 @@ payload:
   - '+.xcancel.com'
   - 'allvoicelab.com'
   - '+.allvoicelab.com'
+  - 'archive.org'
+  - '+.archive.org'
