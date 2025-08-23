@@ -113,3 +113,4 @@ payload:
   - '+.allvoicelab.com'
   - 'archive.org'
   - '+.archive.org'
+  - '+.vik.im'
