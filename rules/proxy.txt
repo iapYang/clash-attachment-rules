@@ -114,3 +114,4 @@ payload:
   - 'archive.org'
   - '+.archive.org'
   - '+.vik.im'
+  - '+.claw.cloud'
