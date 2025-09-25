@@ -115,5 +115,3 @@ payload:
   - '+.archive.org'
   - '+.vik.im'
   - '+.claw.cloud'
-  - '+.run.claw.cloud'
-  - 'run.claw.cloud'
